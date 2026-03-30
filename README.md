@@ -10,8 +10,6 @@
 <br />
 
 <!-- Banner: requires assets/banner.svg on your default branch. If this image is broken, push the whole github-profile folder including assets/. -->
-<img src="https://raw.githubusercontent.com/athsxx/athsxx/main/assets/banner.svg" alt="Atharv Jaju - athsxx" width="850" />
-
 </div>
 
 ---

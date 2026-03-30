@@ -1,4 +1,4 @@
-<div align="center">
+<img width="850" height="240" alt="image" src="https://github.com/user-attachments/assets/d38c89c8-c3d3-455f-92b1-648cc385cb44" /><div align="center">
 
 ### Atharv Jaju · `@athsxx`
 

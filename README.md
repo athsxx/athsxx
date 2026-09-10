@@ -14,7 +14,7 @@ Applied AI engineer in Mumbai. Computer vision on manufacturing lines, LLM syste
 | --- | --- |
 | **[noleak](https://github.com/athsxx/noleak)** | Content-addressed dataset IDs and train/eval leakage checks. Stdlib only. [`pip install noleak`](https://pypi.org/project/noleak/) |
 | **[Blob](https://github.com/athsxx/Blob)** | Six-camera laser inspection of aerospace manifolds. PyQt6 operator UI, ROI calibration, connectivity PASS/FAIL |
-| **[Contract analyzer](https://github.com/athsxx/godrej-contract-analyzer)** | Multi-agent review of supply-side aerospace contracts vs GB Legal POC positions, RAG + DOCX redlines |
+| **[Multi-agent contract review](https://github.com/athsxx/multi-agent-contract-review)** | Four agents: playbook-grounded clause extraction, RAG risk, mitigation checklist, verified Word redlines |
 | **[CMM manifold](https://github.com/athsxx/CMM_manifold)** | CMM Excel → FAIR templates for HAL-LESA manifolds, drawing tolerances intact |
 | **[Face recognition service](https://github.com/athsxx/face-recognition-service)** | FastAPI + RetinaFace + ArcFace ONNX + Faiss, Docker Compose |
 | **[Wheelchair2026](https://github.com/athsxx/Wheelchair2026)** | Offline EN/KN voice intents: VAD → faster-whisper → deterministic parser |
